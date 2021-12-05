@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\kr11\Forms\Forms\Debug\Forms.vcxprojAssemblyReference.cache
+C:\Users\1\Desktop\kr11\Forms\Forms\Debug\Forms.Form1.resources
+C:\Users\1\Desktop\kr11\Forms\Forms\Debug\Forms.vcxproj.GenerateResource.cache
+C:\Users\1\Desktop\kr11\Forms\Forms\Debug\Forms.exe
+C:\Users\1\Desktop\kr11\Forms\Forms\Debug\Forms.pdb
+C:\Users\1\Desktop\DATA\kr11\Forms\Forms\Debug\Forms.vcxprojAssemblyReference.cache
+C:\Users\1\Desktop\DATA\kr11\Forms\Forms\Debug\Forms.Form1.resources
+C:\Users\1\Desktop\DATA\kr11\Forms\Forms\Debug\Forms.vcxproj.GenerateResource.cache
+C:\Users\1\Desktop\DATA\kr11\Forms\Forms\Debug\Forms.exe
+C:\Users\1\Desktop\DATA\kr11\Forms\Forms\Debug\Forms.pdb
+C:\Users\1\Desktop\KR_workshop\kr11\Forms\Forms\Debug\Forms.vcxprojAssemblyReference.cache
+C:\Users\1\Desktop\KR_workshop\kr11\Forms\Forms\Debug\Forms.Form1.resources
+C:\Users\1\Desktop\KR_workshop\kr11\Forms\Forms\Debug\Forms.vcxproj.GenerateResource.cache
+C:\Users\1\Desktop\KR_workshop\kr11\Forms\Forms\Debug\Forms.exe
+C:\Users\1\Desktop\KR_workshop\kr11\Forms\Forms\Debug\Forms.pdb

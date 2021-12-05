@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(36,5): warning MSB4211: Свойству "IntermediateOutputPath" в первый раз присваивается значение, но оно уже было использовано в "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(337,5): warning MSB4211: Свойству "CleanFile" в первый раз присваивается значение, но оно уже было использовано в "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)".
+cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  Forms.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\yvals.h(228): warning STL4001: /clr:pure is deprecated and will be REMOVED.
+C:\Users\1\Desktop\kr11\Forms\Forms\Form1.h(41,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\1\Desktop\kr11\Forms\Forms\Form1.h(311,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\1\Desktop\kr11\Forms\Forms\Form1.h(322,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\1\Desktop\kr11\Forms\Forms\Form1.h(326,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\1\Desktop\kr11\Forms\Forms\Form1.h(328,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\1\Desktop\kr11\Forms\Forms\Form1.h(354,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\1\Desktop\kr11\Forms\Forms\Form1.h(359,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\1\Desktop\kr11\Forms\Forms\Form1.h(362,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\1\Desktop\kr11\Forms\Forms\Form1.h(373,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\1\Desktop\kr11\Forms\Forms\Form1.h(378,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\1\Desktop\kr11\Forms\Forms\Form1.h(381,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\1\Desktop\kr11\Forms\Forms\Form1.h(401,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\1\Desktop\kr11\Forms\Forms\Form1.h(448,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\1\Desktop\kr11\Forms\Forms\Form1.h(449,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\1\Desktop\kr11\Forms\Forms\Form1.h(451,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  LINK : указан параметр /LTCG, но не требуется создание кода; удалите /LTCG из командной строки компоновки для повышения производительности компоновщика
+  Forms.vcxproj -> C:\Users\1\Desktop\kr11\Forms\Forms\Release\Forms.exe

@@ -1,0 +1,9 @@
+C:\Users\1\Desktop\kr11\KursCons\Debug\KursCons.vcxprojAssemblyReference.cache
+C:\Users\1\Desktop\kr11\KursCons\Debug\KursCons.exe
+C:\Users\1\Desktop\kr11\KursCons\Debug\KursCons.pdb
+C:\Users\1\Desktop\DATA\kr11\KursCons\Debug\KursCons.vcxprojAssemblyReference.cache
+C:\Users\1\Desktop\DATA\kr11\KursCons\Debug\KursCons.exe
+C:\Users\1\Desktop\DATA\kr11\KursCons\Debug\KursCons.pdb
+C:\Users\1\Desktop\KR_workshop\kr11\KursCons\Debug\KursCons.vcxprojAssemblyReference.cache
+C:\Users\1\Desktop\KR_workshop\kr11\KursCons\Debug\KursCons.exe
+C:\Users\1\Desktop\KR_workshop\kr11\KursCons\Debug\KursCons.pdb

@@ -1,0 +1,4 @@
+C:\Users\1\Desktop\kr11\Forms\Forms\Release\Forms.vcxprojAssemblyReference.cache
+C:\Users\1\Desktop\kr11\Forms\Forms\Release\Forms.Form1.resources
+C:\Users\1\Desktop\kr11\Forms\Forms\Release\Forms.vcxproj.GenerateResource.cache
+C:\Users\1\Desktop\kr11\Forms\Forms\Release\Forms.exe
