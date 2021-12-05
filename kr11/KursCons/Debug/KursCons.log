@@ -1,8 +1,4 @@
-﻿  stdafx.cpp
-  AssemblyInfo.cpp
-C:\Users\1\Desktop\KR_workshop\kr11\KursCons\AssemblyInfo.cpp(40,29): warning C4947: System::Security::Permissions::SecurityAction::RequestMinimum: помечен как устаревший
-C:\Users\1\Desktop\KR_workshop\kr11\KursCons\AssemblyInfo.cpp(40,29): message : Сообщение: "Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information."
-  KursCons.cpp
+﻿  KursCons.cpp
 C:\Users\1\Desktop\KR_workshop\kr11\KursCons\KursCons.cpp(72,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\1\Desktop\KR_workshop\kr11\KursCons\KursCons.cpp(75,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
 C:\Users\1\Desktop\KR_workshop\kr11\KursCons\KursCons.cpp(78,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
@@ -27,6 +23,5 @@ C:\Users\1\Desktop\KR_workshop\kr11\KursCons\KursCons.cpp(390,1): warning C4996:
 C:\Users\1\Desktop\KR_workshop\kr11\KursCons\KursCons.cpp(413,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\1\Desktop\KR_workshop\kr11\KursCons\KursCons.cpp(414,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\1\Desktop\KR_workshop\kr11\KursCons\KursCons.cpp(430,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-  Создание кода...
   AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
   KursCons.vcxproj -> C:\Users\1\Desktop\KR_workshop\kr11\KursCons\Debug\KursCons.exe
